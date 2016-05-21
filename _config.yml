@@ -1,28 +1,40 @@
-name: steelmountain
 favicon: null
-layout_spectrum: 0.8281388396862894
-typography_spectrum: 0.39224024629220366
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: steelmountain
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7370151930954307
+  brandStrength: 0.39803846180439
+  rhythmicContrast: 0.5348995686508715
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.39803846180438995
-  lightness: 0.22956222156062722
-  saturation: 0.7370151930954307
-  rhythmicContrast: 0.5348995686508715
-purpose: []
+  lightness: 0.2295622215606272
+typography_spectrum: 0.3922402462922037
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9408602
+analytics:
+  twitter: null
+  google: null
+  facebook: null
