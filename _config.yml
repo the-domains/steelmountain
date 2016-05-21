@@ -1,4 +1,8 @@
-layout_spectrum: 0.9408602
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0
   brandStrength: 0.39803846180439
   lightness: 1
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#4E3A17'
+    - '#0C0B06'
+    - '#DDE4C2'
+    - '#818340'
+    - '#C9AE74'
   rhythmicContrast: 0
 typography_spectrum: 0.3922402462922037
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.9408602
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: steelmountain
