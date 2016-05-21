@@ -1,4 +1,5 @@
-name: steelmountain
+favicon: null
+layout_spectrum: 0.9408602
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.4247312
+  saturation: 0
   brandStrength: 0
-  lightness: 0.4677419
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#292D1C'
     - '#6C5C4B'
     - '#C3C3C3'
     - '#8A8B85'
-  rhythmicContrast: 0.4551971
+  rhythmicContrast: 1
 typography_spectrum: 0.3922402462922037
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9408602
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+name: steelmountain
